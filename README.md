@@ -7,7 +7,7 @@ This repository contains a collection of C multiple choice questions with answer
 **100 Articles on C**
 |1|2|3|4|5|
 |:-:|:-:|:-:|:-:|:-:|
-|🟩|🟩|🟩|🟩|⬛|
+|🟩|🟩|🟩|🟩|🟩|
 |⬛|⬛|⬛|⬛|⬛|
 |⬛|⬛|⬛|⬛|⬛|
 |⬛|⬛|⬛|⬛|⬛|
